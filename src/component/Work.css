@@ -1,0 +1,45 @@
+.Work{
+  background-image: url('./images/work.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  padding:10px 20px;
+}
+.workHeader p{
+  font-size: 10px;
+  font-weight: 100;
+}
+.workContent{
+	display: flex;
+	justify-content: justify;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.workContent .workBx{
+	padding: 10px 20px;
+	background: lightblue;
+	color: black;
+  margin: 20px;
+  max-width: 600px;
+	text-align: center;
+	transition: 0.5s;
+}
+.workContent .workBx:hover{
+	background: black;
+  color: white;
+}
+.workContent .workBx img{
+	max-width: 400px;
+}
+.workContent .workBx h3{
+  font-size: 30px;
+	font-weight: 500;
+}
+.workContent .workBx p{
+  font-size: 20px;
+  padding: 5px 10px;
+  font-weight: 100;
+}
+.workContent .workBx:hover p{
+  color: white;
+}

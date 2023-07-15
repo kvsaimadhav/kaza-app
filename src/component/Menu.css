@@ -1,0 +1,141 @@
+*{
+  margin:0;
+  font-size: 30px;
+}
+
+.menu{
+  background-color: bisque;
+  text-align: center;
+}
+
+.menu ul{
+  text-align: center;
+  list-style: none;
+  padding-left: 0px;
+  height: 35px;
+}
+
+.menu li{
+  display: inline-block;
+}
+
+.menu li:hover{
+  background-color: orange;
+}
+
+.menu a{
+  padding: 0px 5px;
+  color: black;
+  text-decoration: none;
+}
+
+.menu a:hover{
+  color: white;
+}
+
+.profile img{
+  width: 30px;
+  height: 30px;
+  transform: scale(1.25);
+  align-content: center;
+}
+.profile img:hover{
+  transform: scale(1.8);
+}
+
+.menu li:last-child .profile{
+  display:none;
+}
+.menu li:last-child:hover .profile{
+  position: absolute;
+  display: block;
+}
+.profile{
+  text-align: left;
+}
+.profile ul{
+  list-style: none;
+}
+.profile li{
+  display: block;
+  background-color: bisque;
+}
+
+.profile li:hover{
+  background-color: orange;
+}
+
+.profile a{
+  padding: 0px 5px;
+  text-decoration:none;
+  color: black;
+}
+
+.profile a:hover{
+  color: white;
+}
+.menu li:nth-last-child(2) .doc{
+  display: none;
+}
+.menu li:nth-last-child(2):hover .doc{
+  position: absolute;
+  display: block;
+}
+
+.doc{
+  text-align: left;
+}
+.doc ul{
+  list-style: none;
+}
+.doc li{
+  display: block;
+  background-color: bisque;
+}
+
+.doc li:hover{
+  background-color: orange;
+}
+
+.doc a{
+  padding: 0px 5px;
+  text-decoration:none;
+  color: black;
+}
+
+.doc a:hover{
+  color: white;
+}
+
+.doc li:last-child .cert{
+  display: none;
+}
+.doc li:last-child:hover .cert{
+  position: absolute;
+  display: block;
+}
+
+.cert{
+  text-align: left;
+}
+.cert ul{
+  list-style: none;
+}
+.cert li{
+  display: block;
+  background-color: bisque;
+}
+
+.cert li:hover{
+  background-color: orange;
+}
+
+.doc a{
+  padding: 0px 5px;
+  text-decoration:none;
+  color: black;
+}
+
+.doc a:hover{
+  color: white;
+}

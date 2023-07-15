@@ -1,0 +1,52 @@
+.Project{
+  background-image: url('./images/bg_project.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-weight: 100;
+}
+.heading.white h2{
+    text-align: center;
+    color: white;
+}
+
+.heading.white p{
+  color:white;
+  font-size: 10px;
+  padding: 5px 10px;
+  box-sizing: content-box;
+}
+
+.Project .content{
+	display: flex;
+	justify-content: justify;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.Project .content .ProjectBx{
+	padding: 10px 20px;
+	background: lightblue;
+	color: black;
+  margin: 20px;
+  max-width: 600px;
+	text-align: center;
+	transition: 0.5s;
+}
+.Project .content .ProjectBx:hover{
+	background: black;
+  color: white;
+}
+.Project .content .ProjectBx img{
+	max-width: 400px;
+}
+.Project .content .ProjectBx h2{
+  font-size: 30px;
+	font-weight: 500;
+}
+.Project .content .ProjectBx p{
+  font-size: 20px;
+  padding: 5px 10px;
+  font-weight: 100;
+}
+.Project .content .ProjectBx:hover p{
+  color:white;
+}
