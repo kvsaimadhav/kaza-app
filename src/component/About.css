@@ -33,6 +33,7 @@
 }
 .aboutContent .aboutBx img{
 	max-width: 400px;
+  max-height: 400px;
 }
 .aboutContent .aboutBx h3{
   font-size: 30px;

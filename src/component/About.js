@@ -47,7 +47,7 @@ function About()
           <h3>Instagram Profile - Vedhamias</h3>
           <p>
             You can have a taste at what Places I roamed in the world. I have been to USA and states such as <i>Michigan, Illinois and Texas</i>.
-            &nbsp; In India, I roamed from about 10 states such as <b>Rajasthan, Telangana, Andhra Pradesh, Karnataka, New Delhi, Mahrastra, Assam,
+            &nbsp; In India, I roamed from about 10 states such as <b>Rajasthan, Telangana, Andhra Pradesh, Karnataka, New Delhi, Maharastra, Assam,
             &nbsp; Tamil Nadu, and so on</b>. I like to challenge myself with respect to Hurdles and try to make memory with every aspect of nature.
             &nbsp; <i>I like to draw pictures of complex nature having simple meaning in LIFE</i>.
           </p>
