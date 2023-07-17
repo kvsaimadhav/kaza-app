@@ -15,7 +15,7 @@ function Menu()
     <div className="Menu">
      <ul className="menu">
          <li><a href="#home" rel="no-opener no-referrer">Home</a></li>
-         <li><a href="#" rel="no-opener no-referrer">About</a></li>
+         <li><a href="#about" rel="no-opener no-referrer">About</a></li>
          <li><a href="#work" rel="no-opener no-referrer">Work</a></li>
          <li><a href="#project" rel="no-opener no-referrer">Project</a></li>
          <li><a href="#" rel="no-opener no-referrer">Academic</a></li>

@@ -1,6 +1,7 @@
 import './App.css';
 import Menu from './component/Menu.js';
 import Home from  './component/Home.js';
+import About from  './component/About.js';
 import Work from './component/Work.js';
 import Project from './component/Project.js';
 import Contact from  './component/Contact.js';
@@ -13,6 +14,7 @@ function App() {
         <Menu />
       </header>
       <Home />
+      <About />
       <Work />
       <Project />
       <footer>

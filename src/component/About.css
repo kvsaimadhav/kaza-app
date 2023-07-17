@@ -1,0 +1,48 @@
+.About{
+  background-image: url('./images/About.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  padding:10px 20px;
+}
+
+.aboutHeader h2{
+  font-size: 40px;
+}
+
+.aboutContent{
+  margin: 10px;
+  padding-left: 20px;
+	display: flex;
+	justify-content: justify;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.aboutContent .aboutBx{
+	padding: 10px 20px;
+	background: lightblue;
+	color: black;
+  margin: 20px;
+  max-width: 600px;
+	text-align: center;
+	transition: 0.5s;
+}
+.aboutContent .aboutBx:hover{
+	background: black;
+  color: white;
+}
+.aboutContent .aboutBx img{
+	max-width: 400px;
+}
+.aboutContent .aboutBx h3{
+  font-size: 30px;
+	font-weight: 500;
+}
+.aboutContent .aboutBx p{
+  font-size: 25px;
+  padding: 5px 10px;
+  font-weight: 100;
+}
+.aboutContent .aboutBx:hover p{
+  color: white;
+}
