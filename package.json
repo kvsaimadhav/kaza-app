@@ -1,6 +1,6 @@
 {
-  "homepage": "http://kvsaimadhav.github.io/portfolio23/",
   "name": "kaza-app",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
