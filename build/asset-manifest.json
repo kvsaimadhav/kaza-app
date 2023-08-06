@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/kaza-app/static/css/main.b5698181.css",
+    "main.js": "/kaza-app/static/js/main.e82e6c50.js",
+    "static/js/787.b3cf8015.chunk.js": "/kaza-app/static/js/787.b3cf8015.chunk.js",
+    "static/media/Photo4.jpg": "/kaza-app/static/media/Photo4.07d351b44c0d8c46db69.jpg",
+    "static/media/About.jpg": "/kaza-app/static/media/About.f42ecb4bc8e4c4ed24be.jpg",
+    "static/media/Oracle.pdf": "/kaza-app/static/media/Oracle.1ee5e663ddcf3def4d93.pdf",
+    "static/media/wps_motto.jpg": "/kaza-app/static/media/wps_motto.8f9095b95cfca688d2b4.jpg",
+    "static/media/Resume.pdf": "/kaza-app/static/media/Resume.7d7318e86997b221d14a.pdf",
+    "static/media/bg.jpg": "/kaza-app/static/media/bg.14f170a42bca2a4dc6bb.jpg",
+    "static/media/Photo2.jpg": "/kaza-app/static/media/Photo2.d1ae2bc465791a7979cc.jpg",
+    "static/media/CV.pdf": "/kaza-app/static/media/CV.27b63cad57c841526018.pdf",
+    "static/media/icon4.jpg": "/kaza-app/static/media/icon4.a40576649003df615867.jpg",
+    "static/media/insta.jpg": "/kaza-app/static/media/insta.eee5ef3f2824e5990fc3.jpg",
+    "static/media/work.jpg": "/kaza-app/static/media/work.2dc19c4f5b72dd55d54c.jpg",
+    "static/media/Photo.jpg": "/kaza-app/static/media/Photo.f72e2e3846744b1e1e33.jpg",
+    "static/media/icon2.jpg": "/kaza-app/static/media/icon2.f8ca0e2df09184917b6a.jpg",
+    "static/media/Photo3.jpg": "/kaza-app/static/media/Photo3.452e8ea861930bc9e2cc.jpg",
+    "static/media/AmazonWebServices.pdf": "/kaza-app/static/media/AmazonWebServices.3544d9e075f818d35f82.pdf",
+    "static/media/icon1.jpg": "/kaza-app/static/media/icon1.83295ef747d83fb24a1f.jpg",
+    "static/media/Photo1.jpg": "/kaza-app/static/media/Photo1.ce88d025ab2f80cf8d7a.jpg",
+    "static/media/icon3.jpg": "/kaza-app/static/media/icon3.43558624b5445f73ba36.jpg",
+    "static/media/bg_project.jpg": "/kaza-app/static/media/bg_project.bcc6c2d299d94c7a7952.jpg",
+    "static/media/linkedin.jpg": "/kaza-app/static/media/linkedin.e9db41041d38d6fb97b4.jpg",
+    "static/media/face.jpg": "/kaza-app/static/media/face.6327c4437b545ad6980e.jpg",
+    "static/media/bits.jpg": "/kaza-app/static/media/bits.ef03f132b495e8ac4df8.jpg",
+    "static/media/contact.jpg": "/kaza-app/static/media/contact.ce7bd8672d03f69c55e4.jpg",
+    "index.html": "/kaza-app/index.html",
+    "main.b5698181.css.map": "/kaza-app/static/css/main.b5698181.css.map",
+    "main.e82e6c50.js.map": "/kaza-app/static/js/main.e82e6c50.js.map",
+    "787.b3cf8015.chunk.js.map": "/kaza-app/static/js/787.b3cf8015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5698181.css",
+    "static/js/main.e82e6c50.js"
+  ]
+}
