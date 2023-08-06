@@ -12,6 +12,7 @@
 .image img{
   width: 280px;
   height: 280px;
+  border-radius: 50%;
 }
 
 .para p{

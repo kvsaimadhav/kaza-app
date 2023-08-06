@@ -37,6 +37,7 @@
 }
 .Project .content .ProjectBx img{
 	max-width: 400px;
+  border-radius: 50%;
 }
 .Project .content .ProjectBx h2{
   font-size: 30px;

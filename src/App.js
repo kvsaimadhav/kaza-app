@@ -4,6 +4,7 @@ import Home from  './component/Home.js';
 import About from  './component/About.js';
 import Work from './component/Work.js';
 import Project from './component/Project.js';
+import Academic from './component/Academic.js';
 import Contact from  './component/Contact.js';
 import CopyRight from  './component/CopyRight.js';
 
@@ -17,6 +18,7 @@ function App() {
       <About />
       <Work />
       <Project />
+      <Academic />
       <footer>
         <Contact />
         <CopyRight />

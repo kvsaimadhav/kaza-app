@@ -18,7 +18,7 @@ function Menu()
          <li><a href="#about" rel="no-opener no-referrer">About</a></li>
          <li><a href="#work" rel="no-opener no-referrer">Work</a></li>
          <li><a href="#project" rel="no-opener no-referrer">Project</a></li>
-         <li><a href="#" rel="no-opener no-referrer">Academic</a></li>
+         <li><a href="#academic" rel="no-opener no-referrer">Academic</a></li>
          <li><a href="#contact" rel="no-opener no-referrer">Contact</a></li>
          <li><a href="#" rel="no-opener no-referrer">Documents</a>
             <ul class="doc">
