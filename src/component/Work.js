@@ -17,7 +17,7 @@ function Work()
       </div>
       <div className="workContent">
         <div className="workBx">
-          <img src={drdo} alt ="No DRDO Image"/>
+          <img src={drdo}/>
           <h3>Defense Research and Development Laboratory (DRDL)</h3>
           <p>Worked for DRDL in Hyderabad, India. The project is about the Process Plans records being stored
             in the software to execute the plan and create a large database of nearly 10 modules for develop of
@@ -25,7 +25,7 @@ function Work()
           </p>
         </div>
         <div className="workBx">
-          <img src={ssg} alt ="No SSG Image"/>
+          <img src={ssg}/>
           <h3>Strategic Solutions Group LLC (Conduent)</h3>
           <p>Worked for Conduent in Boston, MA. The project is about LBOH persons getting notified with tasks
             to be completed for storing the database with all known diseases by the United States - Massachussetts

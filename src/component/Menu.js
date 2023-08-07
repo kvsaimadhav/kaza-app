@@ -35,10 +35,10 @@ function Menu()
          <li>
             <a href="#" rel="no-opener no-referrer">Connect</a>
             <ul class="profile">
-              <li><a href="https://www.linkedin.com/in/madhav-kaza-7702596857k/" rel="no-opener no-referrer" target="_blank"><img class="linkedin" src={linkedin} alt="No Linkedin" />&nbsp;Linkedin</a></li>
-              <li><a href="https://github.com/kvsaimadhav" rel="no-opener no-referrer" target="_blank"><img class="github" src={github} alt="No Github" />&nbsp;Github</a></li>
-              <li><a href="https://www.facebook.com/sai.madhav.9843" rel="no-opener no-referrer" target="_blank"><img class="facebook" src={facebook} alt="No Facebook" />&nbsp;Facebook</a></li>
-              <li><a href="https://www.instagram.com/vedhamias/" rel="no-opener no-referrer" target="_blank"><img class="instagram" src={instagram} alt="No Instagram" />&nbsp;Instagram</a></li>
+              <li><a href="https://www.linkedin.com/in/madhav-kaza-7702596857k/" rel="no-opener no-referrer" target="_blank"><img class="linkedin" src={linkedin}/>&nbsp;Linkedin</a></li>
+              <li><a href="https://github.com/kvsaimadhav" rel="no-opener no-referrer" target="_blank"><img class="github" src={github}/>&nbsp;Github</a></li>
+              <li><a href="https://www.facebook.com/sai.madhav.9843" rel="no-opener no-referrer" target="_blank"><img class="facebook" src={facebook}/>&nbsp;Facebook</a></li>
+              <li><a href="https://www.instagram.com/vedhamias/" rel="no-opener no-referrer" target="_blank"><img class="instagram" src={instagram}/>&nbsp;Instagram</a></li>
             </ul>
          </li>
      </ul>

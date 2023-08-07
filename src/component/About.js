@@ -14,7 +14,7 @@ function About()
       </div>
       <div class="aboutContent">
         <div class="aboutBx">
-          <img src={Photo1} alt ="No Profile Photo"/>
+          <img src={Photo1}/>
           <h3>Profile - Sai Madhav</h3>
           <p>
             Everyone calls me Madhav. But, Friends and Family calls me Sai.
@@ -24,7 +24,7 @@ function About()
           </p>
         </div>
         <div class="aboutBx">
-          <img src={Photo2} alt ="No Profile Photo"/>
+          <img src={Photo2}/>
           <h3>Facebook Profile - Sai Madhav</h3>
           <p>
             I was born in Hottest Place of <i>India, RAJASTHAN (Jodhpur)</i>. I was brought-up
@@ -34,7 +34,7 @@ function About()
           </p>
         </div>
         <div class="aboutBx">
-          <img src={Photo3} alt ="No Profile Photo"/>
+          <img src={Photo3}/>
           <h3>LinekdIn Profile - Madhav Kaza</h3>
           <p>
             I studied Bachelor's Degree from <i>2014 batch of BITS Pilani, Hyderabad</i> in <b>ECE</b>. Education made me learn how to cope-up with
@@ -43,7 +43,7 @@ function About()
           </p>
         </div>
         <div class="aboutBx">
-          <img src={Photo4} alt ="No Profile Photo"/>
+          <img src={Photo4}/>
           <h3>Instagram Profile - Vedhamias</h3>
           <p>
             You can have a taste at what Places I roamed in the world. I have been to USA and states such as <i>Michigan, Illinois and Texas</i>.

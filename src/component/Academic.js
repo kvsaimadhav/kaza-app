@@ -13,7 +13,7 @@ function Academic()
       </div>
       <div class="academicContent">
         <div class="academicBx">
-          <img src={CMICH} alt ="No Masters Photo"/>
+          <img src={CMICH}/>
           <h3>CMU - Masters in Computer Science</h3>
           <p>
             Completed Masters degree in Computer Science in August 2021. Dedicated
@@ -22,7 +22,7 @@ function Academic()
           </p>
         </div>
         <div class="academicBx">
-          <img src={Bits} alt ="No Bachelors Photo"/>
+          <img src={Bits}/>
           <h3>BITS Pilani - Bachelors in Electronics and Communication</h3>
           <p>
             Completed Bachelors degree in Electronics and Communication in May 2018.
@@ -31,7 +31,7 @@ function Academic()
           </p>
         </div>
         <div class="academicBx">
-          <img src={WPS} alt ="No Schooling Photo"/>
+          <img src={WPS}/>
           <h3>WPS - High School in General Studies</h3>
           <p>
              Completed High School in General Studies in April 2012. Passionate Engineering
